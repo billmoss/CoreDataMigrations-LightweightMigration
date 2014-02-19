@@ -628,7 +628,7 @@
 				61B695D518A9EAE100F6B97C /* Model4.xcdatamodel */,
 				61B695D618A9EAE100F6B97C /* Model5.xcdatamodel */,
 			);
-			currentVersion = 61B695D618A9EAE100F6B97C /* Model5.xcdatamodel */;
+			currentVersion = 61B695D218A9EAE100F6B97C /* Model1.xcdatamodel */;
 			path = Model.xcdatamodeld;
 			sourceTree = "<group>";
 			versionGroupType = wrapper.xcdatamodel;
