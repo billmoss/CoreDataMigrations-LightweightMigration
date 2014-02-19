@@ -5,36 +5,36 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
-	<string>65EA5CF6-82AC-4F39-85CE-F12B64ECED80</string>
+	<string>EBAA1E13-7486-4FEB-8CCA-705945261BF5</string>
 	<key>IDESourceControlProjectName</key>
 	<string>CoreDataMigration</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>DE389C0E-C8A8-490C-A654-BB553C3E542A</key>
-		<string>https://bitbucket.org/bill-moss/coredatamigration.git</string>
+		<key>D92EBB75-8D02-4D59-9786-13C3990C9C7E</key>
+		<string>https://github.com/billmoss/CoreDataMigrations-LightweightMigration.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
 	<string>CoreDataMigration.xcodeproj/project.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>DE389C0E-C8A8-490C-A654-BB553C3E542A</key>
+		<key>D92EBB75-8D02-4D59-9786-13C3990C9C7E</key>
 		<string>../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>https://bitbucket.org/bill-moss/coredatamigration.git</string>
+	<string>https://github.com/billmoss/CoreDataMigrations-LightweightMigration.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>110</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>DE389C0E-C8A8-490C-A654-BB553C3E542A</string>
+	<string>D92EBB75-8D02-4D59-9786-13C3990C9C7E</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>DE389C0E-C8A8-490C-A654-BB553C3E542A</string>
+			<string>D92EBB75-8D02-4D59-9786-13C3990C9C7E</string>
 			<key>IDESourceControlWCCName</key>
-			<string>XCode</string>
+			<string>Demo 2 Lightweight Migration</string>
 		</dict>
 	</array>
 </dict>
