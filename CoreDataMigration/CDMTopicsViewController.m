@@ -101,10 +101,10 @@
     {
         cell.titleLabel.text = [topic valueForKey:@"content"];
     }
-    else if (nil != [attributes valueForKey:@"title"])
-    {
-        cell.titleLabel.text = [topic valueForKey:@"title"];
-    }
+//    else if (nil != [attributes valueForKey:@"title"])
+//    {
+//        cell.titleLabel.text = [topic valueForKey:@"title"];
+//    }
 
     // Details info. Presenter name + time budget
     NSMutableString *detailsText = [NSMutableString stringWithCapacity:42];
