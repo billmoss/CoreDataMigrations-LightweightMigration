@@ -1,0 +1,3 @@
+
+Lightweight migration relies on CoreData's ability to use inferred mapping.
+In testing, I noted that a new model with added property that was required, but had no default, ended up in a valid inferred mapping. 
